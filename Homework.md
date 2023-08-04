@@ -9,4 +9,4 @@
 
 1. For that text is a bold, use a **. For example: **bold text**
 2. For that text is a coursive, you need use a *. For example: *coursive*
-3. For that text is a crossed out, use a double tilda. For example: ~~ This text was mistaken ~~
+3. For that text is bold and coursive, use a ***. For example:  ***Text is over***
