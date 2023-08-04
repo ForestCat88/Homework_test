@@ -16,10 +16,16 @@ In the practice you will meet a lot of difference variants formatting and used t
 ## Num 3: Basic commands:
 For the succefful use a GIT, you need to know a basic commands, which contoling working process.
 
-- ```git init ``` used for initialize local repository
+- ``` git init ``` used for initialize local repository
 ```
 git commit -m "message" - used  for create commit
 
 ```
 - ``` git status``` for informatiom about actual status of git
 - ``` git add ``` added file or files to next commit 
+```
+git log - history of commits whith their hash codes
+
+```
+``` git checkout  ``` switch from one commit to other
+``` git diff ``` see the difference between current file and commit
