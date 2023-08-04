@@ -10,7 +10,7 @@
 1. For that text is a bold, use a **. For example: **bold text**
 2. For that text is a coursive, you need use a *. For example: *coursive*
 3. For that text is bold and coursive, use a ***. For example:  ***Text is over***
-
+4. ~~~ Text wil be crosed ~~~
 In the practice you will meet a lot of difference variants formatting and used this opportunity. Search and open new knowledge
 
 ## Num 3: Basic commands:
@@ -29,3 +29,10 @@ git log - history of commits whith their hash codes
 ```
 ``` git checkout  ``` switch from one commit to other
 ``` git diff ``` see the difference between current file and commit
+
+## Num 4: Another opportunities
+
+For that in your site or text paste a link or picture, you need enter in [hyperlink], than in (http://webadress)
+For example: All info we can put in [GitHUB](http://pages.github.com)
+
+This way can be used and for images. First [image](linkimage)
