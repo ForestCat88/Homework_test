@@ -10,7 +10,7 @@
 1. For that text is a bold, use a **. For example: **bold text**
 2. For that text is a coursive, you need use a *. For example: *coursive*
 3. For that text is bold and coursive, use a ***. For example:  ***Text is over***
-4. ~~~ Text wil be crosed ~~~
+4. ~~~Text wil be crosed ~~~
 In the practice you will meet a lot of difference variants formatting and used this opportunity. Search and open new knowledge
 
 ## Num 3: Basic commands:
