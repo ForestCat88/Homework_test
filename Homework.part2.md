@@ -45,6 +45,9 @@ This way can be used and for images. First [image](linkimage)
 
 ## Source Code
 
+For using code in Markdown just write them like in simple txt file.
+And no more less
+
 ## Using HTML
 
 ожно смешивать Markdown и HTML. Если на какие-то элементы нужно поставить классы или атрибуты, смело используем HTML:
