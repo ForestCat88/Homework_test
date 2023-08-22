@@ -45,8 +45,19 @@ This way can be used and for images. First [image](linkimage)
 
 ## Source Code
 
-For using code in Markdown just write them like in simple txt file.
-And no more less
+``` python
+def guns(aim):
+    bullet = [0]
+    magazines = [0]
+    for m in range(len(aim)):
+        if m[aim] > bullet:
+            bullet = m[aim]
+    for m in range(len(aim)):
+        if m[aim] > magazines and m[aim] != bullet[aim]
+        magazines = m[aim]
+
+        return
+```
 
 ## Using HTML
 
