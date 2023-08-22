@@ -36,3 +36,13 @@ For that in your site or text paste a link or picture, you need enter in [hyperl
 For example: All info we can put in [GitHUB](http://pages.github.com)
 
 This way can be used and for images. First [image](linkimage)
+
+# Manual for GIT practice and using Markdown
+
+## Headers
+
+## Tables
+
+## Source Code
+
+## Using HTML
