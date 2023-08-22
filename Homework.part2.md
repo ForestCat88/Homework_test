@@ -45,19 +45,21 @@ This way can be used and for images. First [image](linkimage)
 
 ## Source Code
 
-В чистом Маркдауне блоки кода отбиваются 4 пробелами в начале каждой строки.
-
-Но в GitHub-Flavored Markdown (сокращенно GFM) есть более удобный способ: ставим по три апострофа (на букве Ё) до и после кода. Также можно указать язык исходного кода.
-
-``` python
-def slash (guns):
-aug = arr[0]
-l85a1 = arr[0]
-    for m in range(len(guns)):
-        if arr[m] > l85a1:
-            return
-
-
-```
+For using code in Markdown just write them like in simple txt file.
+And no more less
 
 ## Using HTML
+
+ожно смешивать Markdown и HTML. Если на какие-то элементы нужно поставить классы или атрибуты, смело используем HTML:
+
+> Выделять слова можно при помощи * и _ . Например, это <em class="a1">italic</em> и это тоже <i class="a1">italic</i>. А вот так уже <b>strong</b>, и так тоже <strong>strong</strong>.
+
+Можно и наоборот, внутри HTML-тегов использовать Маркдаун.
+
+<section class="someclass">
+
+### Пример Маркдауна внутри HTML
+
+Выделять слова можно при помощи `*` и `_` . Например, это _italic_ и это тоже *italic*. А вот так уже __strong__, и так тоже **strong**.
+
+</section>
