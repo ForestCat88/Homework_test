@@ -72,4 +72,32 @@ Content Cell  | Content Cell
 
 ## Source Code
 
+``` python
+def guns(aim):
+    bullet = [0]
+    magazines = [0]
+    for m in range(len(aim)):
+        if m[aim] > bullet:
+            bullet = m[aim]
+    for m in range(len(aim)):
+        if m[aim] > magazines and m[aim] != bullet[aim]
+        magazines = m[aim]
+
+        return
+```
+
 ## Using HTML
+
+ожно смешивать Markdown и HTML. Если на какие-то элементы нужно поставить классы или атрибуты, смело используем HTML:
+
+> Выделять слова можно при помощи * и _ . Например, это <em class="a1">italic</em> и это тоже <i class="a1">italic</i>. А вот так уже <b>strong</b>, и так тоже <strong>strong</strong>.
+
+Можно и наоборот, внутри HTML-тегов использовать Маркдаун.
+
+<section class="someclass">
+
+### Пример Маркдауна внутри HTML
+
+Выделять слова можно при помощи `*` и `_` . Например, это _italic_ и это тоже *italic*. А вот так уже __strong__, и так тоже **strong**.
+
+</section>
