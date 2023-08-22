@@ -45,4 +45,19 @@ This way can be used and for images. First [image](linkimage)
 
 ## Source Code
 
+В чистом Маркдауне блоки кода отбиваются 4 пробелами в начале каждой строки.
+
+Но в GitHub-Flavored Markdown (сокращенно GFM) есть более удобный способ: ставим по три апострофа (на букве Ё) до и после кода. Также можно указать язык исходного кода.
+
+``` python
+def slash (guns):
+aug = arr[0]
+l85a1 = arr[0]
+    for m in range(len(guns)):
+        if arr[m] > l85a1:
+            return
+
+
+```
+
 ## Using HTML
